@@ -1,0 +1,12 @@
+Dynamic Parts of the web page
+
+1.  The Task Count
+2.  Each task name in each task row
+3.  The number of rows will change so the tasks section itself will be dynamic 
+    and increase and decrease in size.
+
+Curent issues
+    We don't know how long the page content will be at any given point
+
+    What happens if a user types in a very long task name, will we limit? Wrap text? Cut?
+    Otherwise the user might have to scroll a long way to the right to get the done and delete buttons
