@@ -21,8 +21,9 @@ body{
 
 h1{
     text-align: center;
+    font-family: 'Indie Flower', cursive;
     color: aquamarine;
-    width: 100%;
+    width: 100%;    
     text-shadow:
     -1px -1px 0 #000,  
      1px -1px 0 #000,
