@@ -2,10 +2,11 @@
 body{
 
     background-color:#B0C1EA;
-    height: 50vh;
-    padding: 10px 30px 60px 100px;
+    height: 100vh;
+    /* padding: 10px 0px 100px 0px; */
     text-align: center;
     font-family: 'Pacifico', cursive;
+    font-size: 1.5rem;
 
 }
 
@@ -13,18 +14,21 @@ h1{
     text-align: center;
     font-family: 'Indie Flower', cursive;
     color: aquamarine;
-    width: 100%;    
+    /* width: 100%;     */
+    font-size: 4rem;
     text-shadow:
     -1px -1px 0 #000,  
      1px -1px 0 #000,
      -1px 1px 0 #000,
       1px 1px 0 #000;
+      padding:  80px 0px 40px 0px;
 
 }
 
 table{
     text-align: center;
     font-family: 'Solway', serif;
+    font-size: 1.5rem;
 
 }
 
@@ -43,31 +47,12 @@ td{
 
 
 
-
-
-span{
-
-        font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.heading{
-
-    font-weight: 600;
-    color: palegoldenrod;
-}
-
 #list-heading{
     background-color: blueviolet;
 }
 
-#shopping-list {
-    list-style-type: none;
-}
 
-span{
-    width: 30%;
-    display: inline-block;
-}
+
 
 button{
     background-color: azure;
