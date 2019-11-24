@@ -1,0 +1,83 @@
+/* h1
+body
+form
+p - things  to 
+
+table
+        trs - and within tds
+
+
+*/
+
+
+body{
+
+    background-color:#B0C1EA;
+    height: 50vh;
+    padding: 10px 30px 60px 100px;
+    text-align: center;
+
+}
+
+h1{
+    text-align: center;
+    color: aquamarine;
+    width: 100%;
+    text-shadow:
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+     -1px 1px 0 #000,
+      1px 1px 0 #000;
+}
+
+table{
+    text-align: center;
+
+}
+
+.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
+
+
+span{
+
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading{
+
+    font-weight: 600;
+    color: palegoldenrod;
+}
+
+#list-heading{
+    background-color: blueviolet;
+}
+
+#shopping-list {
+    list-style-type: none;
+}
+
+span{
+    width: 30%;
+    display: inline-block;
+}
+
+button{
+    background-color: azure;
+    border-radius: 4px;
+    border: 0;
+    margin: 5px;
+    text-align: center;
+
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+
+
+}
